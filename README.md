@@ -6,10 +6,8 @@ Este repositório contém uma landing page responsiva desenvolvida utilizando HT
 
 Para visualizar e editar a página, você precisa ter um editor de código e um navegador web instalados no seu computador. Recomendamos o uso de um editor de código como o Visual Studio Code e um navegador moderno como o Google Chrome ou Mozilla Firefox.
 
-## Instruções de Uso
-
-1. Clone ou faça o download deste repositório para o seu computador.
-2. Abra o arquivo `index.html` em um navegador web para visualizar a landing page.
+# Demonstração
+* Você pode acessar a página de destino neste link: https://dev-alanduarte.github.io/Landing-Page-Music/
 
 ## Personalização
 
